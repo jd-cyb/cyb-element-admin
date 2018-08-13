@@ -1,6 +1,6 @@
 ## 简介
 
-[cyb-element-admin](https://github.com/jd-cyb/cyb-element-admin) 是一个后台集成解决方案，它基于 [vue](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证，提炼了典型的业务模型，提供了丰富的功能组件，它可以帮助你快速搭建企业级中后台产品原型。
+[cyb-element-admin](http://www.hestudy.com/cyb/cyb-element-admin/) 是一个后台集成解决方案，它基于 [vue](https://github.com/vuejs/vue) 和 [element](https://github.com/ElemeFE/element)。它使用了最新的前端技术栈，内置了i18国际化解决方案，动态路由，权限验证，提炼了典型的业务模型，提供了丰富的功能组件，它可以帮助你快速搭建企业级中后台产品原型。
 
 <div align="center">
   <img src="./demo.png" alt="demo">
@@ -42,9 +42,13 @@ cyb dist
 cyb test
 ```
 
+## 示例
+
+[查看示例](http://www.hestudy.com/cyb/cyb-element-admin/)
+
 ## 其他
 
-本项目源码使用了[vue-element-admin](http://panjiachen.github.io/vue-element-admin)，用于演示塞伯坦（cybertron）CYB前端模块化工程构建工具强大的工程构建能力。
+本项目源码使用了[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)，用于演示塞伯坦（cybertron）-CYB前端模块化工程构建工具强大的工程构建能力。
 
 ## License
 
