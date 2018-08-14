@@ -17,7 +17,7 @@ npm install -g cyb-cli
 ```bash
 # 克隆项目
 
-git clone https://github.com/jd-cyb/cyb-element-admin
+git clone https://github.com/jd-cyb/cyb-element-admin.git
 
 # 安装依赖
 
@@ -54,4 +54,4 @@ cyb test
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018 CYB前端小组
+Copyright (c) 2018, 京东商城-基础平台研发部-[CYB前端小组](https://github.com/jd-cyb)
